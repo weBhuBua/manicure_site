@@ -1,0 +1,65 @@
+* {
+	margin: 0;
+	box-sizing: border-box;
+}
+
+body {
+	background: #FDEDC0;
+}
+
+.container {
+	width: 50%;
+	/*background: #80B3E8;*/
+	margin: 0 auto;
+	margin-top: 10%;
+}
+
+.admin-form {
+	width: 60%;
+	background: #80B3E8;
+	
+	font-size: 18px;
+	font-weight: 700;
+	color: #fff;
+
+	border: 2px solid orange;
+	-webkit-border-radius: 5px;
+	        border-radius: 5px;
+	
+	padding: 20px;
+} 
+	
+.admin-form input[type="text"], input[type="password"] {
+	 border: 2px solid #cccccc; 
+	 border-radius: 5px; 
+	 -webkit-border-radius: 3px; 
+	 -moz-border-radius: 3px; 
+	 -khtml-border-radius: 3px; 
+	 background: #ffffff 
+	 outline: none; 
+	 height: 34px;
+	 width: 220px; 
+	 font-size: 15px; 
+	 font-family: Tahoma; 
+	 
+	 /*margin: 0 auto;*/
+	 margin-bottom: 10px;
+	 padding: 5px;
+	 letter-spacing: 1px;
+}
+
+input[type="submit"] {
+	height: 30px;
+	width: 100px;
+	padding: 5px 10px;
+	
+	font-size: 14px;
+	font-weight: 700;
+	
+	-webkit-border-radius: 3px;
+	        border-radius: 3px;
+}
+
+.inp1, label, input[type="submit"] {
+	margin-left: 24%;
+}

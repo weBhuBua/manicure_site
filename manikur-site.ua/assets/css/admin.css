@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+@media (min-width: 1200px) {
+    .container {
+        max-width: 1170px;
+    }
+}
+
+
+button {
+    cursor: pointer;
+}
+
+.admin-title {
+    text-align: center;
+    margin-top: 30px;
+    font-weight: bold;
+}
+
+.logout {
+    text-align: end;
+}
+
+.admin-btn {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.img-25 {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.ofh-100 {
+    overflow: hidden;
+}
+
+.h55 {
+    max-height: 100px;
+}
+
+.main-div {
+    border: 3px solid #39454b;
+    border-radius: 5px;
+}

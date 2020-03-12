@@ -1,0 +1,75 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    font-size: 18px;
+    font-family: sans-serif;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background: url("../../images/flower_aquarel.jpg");
+}
+
+.container {
+    width: 40%;
+    margin: 0 auto;
+}
+
+.enter {
+    width: 80%;
+    border: 2px solid grey;
+    border-radius: 3px;
+    padding: 40px 20px;
+    margin: 0 auto;
+    background: #f9f9f9;
+}
+
+form p {
+    text-align: center;
+    font-size: 14px;
+}
+
+form input {
+    text-decoration: none;
+    width: 70%;
+    display: block;
+    padding: 10px 0;
+    margin: 10px auto;
+    vertical-align: center;
+    background: rgba(95, 101, 120, 0.22);
+
+    border: none;
+    border-radius: 5px;
+
+    font-size: 18px;
+    letter-spacing: 1px;
+    text-align: center;
+}
+
+form input[type="submit"] {
+    background: #e47b50;
+    font-size: 20px;
+    font-weight: 700;
+    color: #fff;
+    letter-spacing: 2px;
+
+    cursor: pointer;
+}
+
+form input[type="submit"]:hover {
+    background: rgba(255, 187, 114, 0.73);
+}
+
+.warning {
+    text-align: center;
+}
+
+/*form input:focus {*/
+/*    border: 1px solid black;*/
+/*}*/

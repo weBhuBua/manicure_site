@@ -1,0 +1,28 @@
+body {
+   background: url(../../images/yellow-wall.jpg);
+}
+
+.container {
+   max-width: 1170px;
+   margin: 0 auto;
+}
+
+.test {
+   margin-top: 10%;
+   padding: 20px;
+}
+
+.test-img img {
+   width: 90%;
+   height: 100%;
+   object-fit: cover;
+}
+
+.btn {
+   text-align: center;
+}
+
+.btn button {
+   padding: 5px 10px;
+   margin-top: 20px;
+}
