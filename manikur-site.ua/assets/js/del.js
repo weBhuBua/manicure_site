@@ -14,7 +14,7 @@ btnDel.forEach(elem => {
             }
         }
 
-        xhttp10.open("POST", '../../php/admin.php', true);
+        xhttp10.open("POST", '../../php/admin_old.php', true);
         xhttp10.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
         xhttp10.send(eName);
 

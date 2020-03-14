@@ -41,15 +41,16 @@
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../practic-php.ua" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/php" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\OpenServer\OSPanel\domains\manikur-site.ua\php" />
+      <recent name="F:\OpenServer\OSPanel\domains\manikur-site.ua" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\OpenServer\OSPanel\domains\manikur-site.ua\php" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\OpenServer\OSPanel\domains\manikur-site.ua" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -85,6 +86,8 @@
       <workItem from="1583661835567" duration="6690000" />
       <workItem from="1583754460929" duration="9230000" />
       <workItem from="1583848087037" duration="6031000" />
+      <workItem from="1584108255071" duration="16241000" />
+      <workItem from="1584175013535" duration="3994000" />
     </task>
     <servers />
   </component>
